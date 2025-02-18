@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Rhoss1
-- 👀 I’m interested in coding, weightlifting, books
-- 🌱 I’m currently learning C and C++
-- I'm in first Computer Science class student 
+- 👀 I’m interested in coding, weightlifting, books, games
+- 🌱 I’m currently learning JavaScript/Java.
+- I'm Computer Science student on second year.
+- I know C, C++, Python, SQL and Java.
 
 <!---
 Rhoss1/Rhoss1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
