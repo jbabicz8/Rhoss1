@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rhoss1
+- 👋 Hi, I’m @jbabicz8
 - 👀 I’m interested in coding, weightlifting, books, games
 - 🌱 I’m currently learning JavaScript/Java.
 - I'm Computer Science student on third year.
